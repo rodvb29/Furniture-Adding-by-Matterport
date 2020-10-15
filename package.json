@@ -1,0 +1,36 @@
+{
+  "dependencies": {
+    "awesome-typescript-loader": "^5.2.1",
+    "lerna": "^3.3.2",
+    "shelljs": "^0.8.3",
+    "typescript": "^3.7.2",
+    "webpack": "^4.42.0"
+  },
+  "name": "sdk_examples",
+  "version": "1.0.0",
+  "private": true,
+  "devDependencies": {
+    "webpack-cli": "^3.1.0"
+  },
+  "scripts": {
+    "bootstrap": "lerna bootstrap && lerna link",
+    "clean": "lerna clean --yes",
+    "build-all-dev": "lerna run build-dev",
+    "build-all-prod": "lerna run build-prod",
+    "inspector": "lerna run develop --scope=inspector --stream",
+    "vs-app": "lerna run develop --scope=vs-app --stream",
+    "easter": "lerna run develop --scope=easter --stream",
+    "rc-app": "lerna run develop --scope=rc-app --stream",
+    "build-tools": "tsc --outDir ./tools/dist ./tools/echo.ts",
+    "fetch-bundle": "curl https://static.matterport.com/showcase-sdk/bundle/$npm_package_config_bundle_version/showcase-bundle.zip -o bundle.zip",
+    "expand-bundle": "unzip -o bundle.zip -d ./packages/bundle",
+    "install-bundle": "yarn fetch-bundle && yarn expand-bundle",
+    "test": "lerna run test --stream"
+  },
+  "workspaces": [
+    "packages/*"
+  ],
+  "config" : {
+    "bundle_version" : "3.1.8.2-12-g86e1cdce6"
+  }
+}

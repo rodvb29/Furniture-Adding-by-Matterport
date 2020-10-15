@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="318.48999"
+   inkscape:export-xdpi="318.48999"
+   inkscape:export-filename="C:\Users\hmorales\Documents\Proyectos\Matterport\packages\vs-app\assets\video call.png"
+   inkscape:version="1.1-dev (08f88fb, 2020-07-18)"
+   height="201.81128"
+   width="308.65247"
+   sodipodi:docname="video call.png.svg"
+   xml:space="preserve"
+   viewBox="0 0 308.65247 201.81128"
+   y="0px"
+   x="0px"
+   id="Layer_1"
+   version="1.1"><defs
+   id="defs99"><filter
+     height="1.024"
+     y="-0.012"
+     width="1.024"
+     x="-0.012"
+     id="filter1263"
+     style="color-interpolation-filters:sRGB"
+     inkscape:menu-tooltip="Edges are partly feathered out"
+     inkscape:menu="Blurs"
+     inkscape:label="Apparition"><feMorphology
+       id="feMorphology1257"
+       result="result0"
+       in="SourceGraphic"
+       radius="4" /><feGaussianBlur
+       id="feGaussianBlur1259"
+       result="result91"
+       stdDeviation="1.6773494"
+       in="result0" /><feComposite
+       id="feComposite1261"
+       in2="result91"
+       in="SourceGraphic"
+       operator="in" /></filter><filter
+     inkscape:label="Cutout Glow"
+     inkscape:menu="Shadows and Glows"
+     inkscape:menu-tooltip="In and out glow with a possible offset and colorizable flood"
+     height="1.1026918"
+     y="-0.051345892"
+     width="1.0479128"
+     x="-0.023956407"
+     id="filter1277"
+     style="color-interpolation-filters:sRGB"
+     inkscape:collect="always"><feGaussianBlur
+       result="blur"
+       stdDeviation="1.5"
+       id="feGaussianBlur1293" /><feFlood
+       result="flood"
+       flood-opacity="1"
+       flood-color="rgb(0,0,0)"
+       id="feFlood1295" /><feComposite
+       result="composite"
+       operator="in"
+       in="flood"
+       id="feComposite1297"
+       in2="fbSourceGraphic" /><feBlend
+       mode="normal"
+       in="blur"
+       id="feBlend1299"
+       in2="composite" /></filter><filter
+     inkscape:label="Clean Edges"
+     height="1.0000023"
+     y="-1.1275511e-06"
+     width="1.0000003"
+     x="-1.4833109e-07"
+     id="filter1356"
+     style="color-interpolation-filters:sRGB;"
+     inkscape:collect="always"><feGaussianBlur
+       result="fbSourceGraphic"
+       id="feGaussianBlur1358"
+       stdDeviation="1.5393419e-05"
+       inkscape:collect="always" /><feColorMatrix
+       id="feColorMatrix1364"
+       values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+       in="fbSourceGraphic"
+       result="fbSourceGraphicAlpha" /><feGaussianBlur
+       in="fbSourceGraphic"
+       result="blur"
+       stdDeviation="0.4"
+       id="feGaussianBlur1366" /><feComposite
+       result="composite1"
+       operator="in"
+       in="fbSourceGraphic"
+       id="feComposite1368"
+       in2="blur" /><feComposite
+       result="composite2"
+       operator="in"
+       k2="1"
+       in="composite1"
+       id="feComposite1370"
+       in2="composite1" /></filter><filter
+     height="1.0000002"
+     y="-9.4860992e-08"
+     width="1.0000001"
+     x="-6.2015789e-08"
+     id="filter1360"
+     style="color-interpolation-filters:sRGB"
+     inkscape:collect="always"><feGaussianBlur
+       id="feGaussianBlur1362"
+       stdDeviation="5.7081458e-05"
+       inkscape:collect="always" /></filter></defs><sodipodi:namedview
+   inkscape:current-layer="g1255"
+   inkscape:window-maximized="1"
+   inkscape:window-y="-9"
+   inkscape:window-x="69"
+   inkscape:cy="136.15833"
+   inkscape:cx="110.64443"
+   inkscape:zoom="1.9793133"
+   showgrid="false"
+   id="namedview97"
+   inkscape:window-height="1051"
+   inkscape:window-width="1842"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0"
+   guidetolerance="10"
+   gridtolerance="10"
+   objecttolerance="10"
+   borderopacity="1"
+   bordercolor="#666666"
+   pagecolor="#ffffff" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<g
+   transform="translate(-17.806306,-21.365322)"
+   id="g66">
+</g>
+<g
+   transform="translate(-17.806306,-21.365322)"
+   id="g68">
+</g>
+<g
+   transform="translate(-17.806306,-21.365322)"
+   id="g70">
+</g>
+<g
+   transform="translate(-17.806306,-21.365322)"
+   id="g72">
+</g>
+<g
+   transform="translate(-17.806306,-21.365322)"
+   id="g74">
+</g>
+<g
+   transform="translate(-17.806306,-21.365322)"
+   id="g76">
+</g>
+<g
+   transform="translate(-17.806306,-21.365322)"
+   id="g78">
+</g>
+<g
+   transform="translate(-17.806306,-21.365322)"
+   id="g80">
+</g>
+<g
+   transform="translate(-17.806306,-21.365322)"
+   id="g82">
+</g>
+<g
+   transform="translate(-17.806306,-21.365322)"
+   id="g84">
+</g>
+<g
+   transform="translate(-17.806306,-21.365322)"
+   id="g86">
+</g>
+<g
+   transform="translate(-17.806306,-21.365322)"
+   id="g88">
+</g>
+<g
+   transform="translate(-17.806306,-21.365322)"
+   id="g90">
+</g>
+<g
+   transform="translate(-17.806306,-21.365322)"
+   id="g92">
+</g>
+<g
+   transform="translate(-17.806306,-21.365322)"
+   id="g94">
+</g>
+<g
+   transform="matrix(0.29819278,0,0,0.29819278,136.59531,361.35169)"
+   id="g165"><g
+     transform="matrix(0.69696971,0,0,0.69696971,165.03282,-189.58288)"
+     id="g1190"><g
+       transform="matrix(0.6723927,0,0,0.6723927,-320.9582,-508.55925)"
+       id="g1255"><g
+         style="filter:url(#filter1360)"
+         id="g1354"><path
+           transform="matrix(4.811594,0,0,4.811594,-979.70407,-1870.9053)"
+           style="fill:#e4eaf8"
+           d="M 476.69,392.828 H 35.31 c -4.875,0 -8.828,-3.953 -8.828,-8.828 V 101.517 c 0,-4.875 3.953,-8.828 8.828,-8.828 h 441.38 c 4.875,0 8.828,3.953 8.828,8.828 V 384 c -10e-4,4.875 -3.953,8.828 -8.828,8.828 z"
+           id="path16"
+           inkscape:export-filename="C:\Users\hmorales\Documents\Proyectos\Matterport\packages\vs-app\assets\video call.png"
+           inkscape:export-xdpi="248.78"
+           inkscape:export-ydpi="248.78" /><path
+           transform="matrix(4.811594,0,0,4.811594,-979.70407,-1870.9053)"
+           style="fill:#7df5a5"
+           d="M 485.517,242.759 H 291.31 V 92.69 h 194.27943 l -0.0714,0.0614 0,150.007604 z"
+           id="path18"
+           sodipodi:nodetypes="ccccccc"
+           inkscape:export-filename="C:\Users\hmorales\Documents\Proyectos\Matterport\packages\vs-app\assets\video call.png"
+           inkscape:export-xdpi="248.78"
+           inkscape:export-ydpi="248.78" /><path
+           transform="matrix(4.811594,0,0,4.811594,-979.70407,-1870.9053)"
+           style="fill:#00c3ff"
+           d="M 485.517,242.759 H 291.31 v 150.069 h 185.38 c 8.79629,0 8.828,-0.0462 8.828,-0.0462 l 0,-150.02281 z"
+           id="path20"
+           sodipodi:nodetypes="cccsccc"
+           inkscape:export-filename="C:\Users\hmorales\Documents\Proyectos\Matterport\packages\vs-app\assets\video call.png"
+           inkscape:export-xdpi="248.78"
+           inkscape:export-ydpi="248.78" /><path
+           transform="matrix(4.811594,0,0,4.811594,-979.70407,-1870.9053)"
+           style="fill:#ffdc64"
+           d="m 291.31,392.828 -264.700191,0 -0.127809,0.005 V 92.735189 L 26.481228,92.689 H 291.31 Z"
+           id="path22"
+           sodipodi:nodetypes="ccccccc"
+           inkscape:export-filename="C:\Users\hmorales\Documents\Proyectos\Matterport\packages\vs-app\assets\video call.png"
+           inkscape:export-xdpi="248.78"
+           inkscape:export-ydpi="248.78" /><path
+           transform="matrix(4.811594,0,0,4.811594,-979.70407,-1870.9053)"
+           style="fill:#d29b6e"
+           d="m 238.345,392.828 v -22.585 c 0,-7.599 -4.863,-14.346 -12.072,-16.749 l -28.821,-9.607 c -7.209,-2.403 -12.072,-9.15 -12.072,-16.749 v -22.585 h -52.966 v 22.585 c 0,7.599 -4.863,14.346 -12.072,16.749 l -28.821,9.607 c -7.211,2.403 -12.074,9.15 -12.074,16.749 v 22.585 z"
+           id="path26"
+           inkscape:export-filename="C:\Users\hmorales\Documents\Proyectos\Matterport\packages\vs-app\assets\video call.png"
+           inkscape:export-xdpi="248.78"
+           inkscape:export-ydpi="248.78" /><path
+           transform="matrix(4.811594,0,0,4.811594,-979.70407,-1870.9053)"
+           style="fill:#959cb5"
+           d="m 226.273,353.493 -28.821,-9.608 c -1.731,-0.577 -3.308,-1.431 -4.734,-2.461 -8.097,9.751 -20.158,16.093 -33.822,16.093 -13.664,0 -25.725,-6.342 -33.821,-16.093 -1.426,1.03 -3.002,1.885 -4.734,2.461 l -28.821,9.608 c -7.21,2.403 -12.073,9.15 -12.073,16.749 v 22.585 h 158.897 v -22.585 c 0.001,-7.599 -4.862,-14.346 -12.071,-16.749 z"
+           id="path28"
+           inkscape:export-filename="C:\Users\hmorales\Documents\Proyectos\Matterport\packages\vs-app\assets\video call.png"
+           inkscape:export-xdpi="248.78"
+           inkscape:export-ydpi="248.78" /><g
+           transform="matrix(4.811594,0,0,4.811594,-979.70407,-1870.9053)"
+           id="g34"
+           inkscape:export-filename="C:\Users\hmorales\Documents\Proyectos\Matterport\packages\vs-app\assets\video call.png"
+           inkscape:export-xdpi="248.78"
+           inkscape:export-ydpi="248.78">
+	<ellipse
+   style="fill:#694b4b"
+   cx="158.897"
+   cy="167.724"
+   rx="35.310001"
+   ry="30.896999"
+   id="ellipse30" />
+	<ellipse
+   style="fill:#694b4b"
+   cx="158.897"
+   cy="229.517"
+   rx="70.621002"
+   ry="66.207001"
+   id="ellipse32" />
+</g><path
+           transform="matrix(4.811594,0,0,4.811594,-979.70407,-1870.9053)"
+           style="fill:#5a4146"
+           d="m 175.96,165.337 c -5.474,-1.276 -11.169,-2.027 -17.064,-2.027 -39.002,0 -70.621,29.642 -70.621,66.207 0,31.398 23.338,57.632 54.621,64.436 0,-11.361 0,-28.264 0,-53.401 0.001,-38.241 18.414,-62.171 33.064,-75.215 z"
+           id="path36"
+           inkscape:export-filename="C:\Users\hmorales\Documents\Proyectos\Matterport\packages\vs-app\assets\video call.png"
+           inkscape:export-xdpi="248.78"
+           inkscape:export-ydpi="248.78" /><path
+           transform="matrix(4.811594,0,0,4.811594,-979.70407,-1870.9053)"
+           style="fill:#f0c087"
+           d="m 203.411,299.949 -28.723,14.361 c -9.941,4.97 -21.642,4.97 -31.583,0 l -28.723,-14.361 c -5.28,-2.639 -8.89,-7.744 -9.623,-13.601 l -5.362,-42.893 c -0.632,-5.056 3.108,-9.569 8.192,-9.901 16.454,-1.077 50.767,-5.207 71.922,-21.047 3.567,-2.671 8.547,-2.201 11.596,1.05 l 24.542,26.174 c 1.795,1.914 2.645,4.529 2.319,7.133 l -4.936,39.484 c -0.73,5.858 -4.341,10.962 -9.621,13.601 z"
+           id="path38"
+           inkscape:export-filename="C:\Users\hmorales\Documents\Proyectos\Matterport\packages\vs-app\assets\video call.png"
+           inkscape:export-xdpi="248.78"
+           inkscape:export-ydpi="248.78" /><path
+           transform="matrix(4.811594,0,0,4.811594,-979.70407,-1870.9053)"
+           style="fill:#e6af78"
+           d="m 215.65,239.731 -24.543,-26.174 c -0.814,-0.87 -1.783,-1.506 -2.809,-1.971 -0.337,-0.152 -0.703,-0.184 -1.054,-0.292 -0.713,-0.218 -1.43,-0.413 -2.17,-0.445 -0.632,-0.026 -1.26,0.055 -1.886,0.168 -0.318,0.057 -0.641,0.06 -0.953,0.152 -0.953,0.286 -1.881,0.708 -2.721,1.337 -21.191,15.866 -55.588,19.983 -72.008,21.053 -5.113,0.333 -8.742,4.812 -8.106,9.896 l 5.362,42.892 c 0.733,5.858 4.343,10.962 9.623,13.602 l 28.723,14.361 c 4.289,2.144 8.919,3.178 13.58,3.473 l -10.783,-21.567 c -3.064,-6.13 -4.66,-12.888 -4.66,-19.741 V 253.74 c 0,-4.109 2.849,-7.597 6.836,-8.594 12.089,-3.022 24.524,-7.443 35.322,-13.997 l 19.371,20.66 c 2.862,3.053 6.91,6.528 13.806,6.196 l 1.393,-11.142 c 0.322,-2.604 -0.529,-5.218 -2.323,-7.132 z"
+           id="path40"
+           inkscape:export-filename="C:\Users\hmorales\Documents\Proyectos\Matterport\packages\vs-app\assets\video call.png"
+           inkscape:export-xdpi="248.78"
+           inkscape:export-ydpi="248.78" /><path
+           transform="matrix(4.811594,0,0,4.811594,-979.70407,-1870.9053)"
+           style="fill:#ffdc64"
+           d="m 414.897,353.103 h -52.966 c -9.751,0 -17.655,7.904 -17.655,17.655 v 22.069 h 88.276 v -22.069 c 0,-9.751 -7.904,-17.655 -17.655,-17.655 z"
+           id="path42"
+           inkscape:export-filename="C:\Users\hmorales\Documents\Proyectos\Matterport\packages\vs-app\assets\video call.png"
+           inkscape:export-xdpi="248.78"
+           inkscape:export-ydpi="248.78" /><path
+           transform="matrix(4.811594,0,0,4.811594,-979.70407,-1870.9053)"
+           style="fill:#d29b6e"
+           d="m 388.414,366.345 v 0 c -7.313,0 -13.241,-5.929 -13.241,-13.241 v -13.241 h 26.483 v 13.241 c -0.001,7.312 -5.93,13.241 -13.242,13.241 z"
+           id="path44"
+           inkscape:export-filename="C:\Users\hmorales\Documents\Proyectos\Matterport\packages\vs-app\assets\video call.png"
+           inkscape:export-xdpi="248.78"
+           inkscape:export-ydpi="248.78" /><path
+           transform="matrix(4.811594,0,0,4.811594,-979.70407,-1870.9053)"
+           style="fill:#f0c087"
+           d="M 389.929,348.69 H 386.9 c -4.682,0 -9.173,-1.86 -12.484,-5.171 l -7.313,-7.313 c -3.311,-3.311 -5.171,-7.801 -5.171,-12.484 v -27.998 c 0,-9.751 7.904,-17.655 17.655,-17.655 h 17.655 c 9.751,0 17.655,7.904 17.655,17.655 v 27.998 c 0,4.682 -1.86,9.173 -5.171,12.484 l -7.313,7.313 c -3.311,3.31 -7.802,5.171 -12.484,5.171 z"
+           id="path46"
+           inkscape:export-filename="C:\Users\hmorales\Documents\Proyectos\Matterport\packages\vs-app\assets\video call.png"
+           inkscape:export-xdpi="248.78"
+           inkscape:export-ydpi="248.78" /><path
+           transform="matrix(4.811594,0,0,4.811594,-979.70407,-1870.9053)"
+           style="fill:#694b4b"
+           d="m 397.241,278.069 h -17.655 c -9.751,0 -17.655,7.904 -17.655,17.655 v 8.828 c 0,0 26.483,0 52.966,-8.828 v 0 c 0,-9.751 -7.904,-17.655 -17.656,-17.655 z"
+           id="path48"
+           inkscape:export-filename="C:\Users\hmorales\Documents\Proyectos\Matterport\packages\vs-app\assets\video call.png"
+           inkscape:export-xdpi="248.78"
+           inkscape:export-ydpi="248.78" /><path
+           transform="matrix(4.811594,0,0,4.811594,-979.70407,-1870.9053)"
+           style="fill:#707487"
+           d="m 414.897,203.034 h -52.966 c -9.751,0 -17.655,7.904 -17.655,17.655 v 22.069 h 88.276 V 220.69 c 0,-9.752 -7.904,-17.656 -17.655,-17.656 z"
+           id="path50"
+           inkscape:export-filename="C:\Users\hmorales\Documents\Proyectos\Matterport\packages\vs-app\assets\video call.png"
+           inkscape:export-xdpi="248.78"
+           inkscape:export-ydpi="248.78" /><path
+           transform="matrix(4.811594,0,0,4.811594,-979.70407,-1870.9053)"
+           style="fill:#d29b6e"
+           d="m 388.414,216.276 v 0 c -7.313,0 -13.241,-5.929 -13.241,-13.241 v -13.241 h 26.483 v 13.241 c -0.001,7.312 -5.93,13.241 -13.242,13.241 z"
+           id="path52"
+           inkscape:export-filename="C:\Users\hmorales\Documents\Proyectos\Matterport\packages\vs-app\assets\video call.png"
+           inkscape:export-xdpi="248.78"
+           inkscape:export-ydpi="248.78" /><path
+           transform="matrix(4.811594,0,0,4.811594,-979.70407,-1870.9053)"
+           style="fill:#f0c087"
+           d="M 389.929,198.621 H 386.9 c -4.682,0 -9.173,-1.86 -12.484,-5.171 l -7.313,-7.313 c -3.311,-3.311 -5.171,-7.801 -5.171,-12.484 v -27.998 c 0,-9.751 7.904,-17.655 17.655,-17.655 h 17.655 c 9.751,0 17.655,7.904 17.655,17.655 v 27.998 c 0,4.682 -1.86,9.173 -5.171,12.484 l -7.313,7.313 c -3.311,3.31 -7.802,5.171 -12.484,5.171 z"
+           id="path54"
+           inkscape:export-filename="C:\Users\hmorales\Documents\Proyectos\Matterport\packages\vs-app\assets\video call.png"
+           inkscape:export-xdpi="248.78"
+           inkscape:export-ydpi="248.78" /><path
+           transform="matrix(4.811594,0,0,4.811594,-979.70407,-1870.9053)"
+           style="fill:#694b4b"
+           d="m 397.241,128 h -17.655 c -9.751,0 -17.655,7.904 -17.655,17.655 v 8.828 c 0,0 26.483,0 52.966,-8.828 v 0 c 0,-9.751 -7.904,-17.655 -17.656,-17.655 z"
+           id="path56"
+           inkscape:export-filename="C:\Users\hmorales\Documents\Proyectos\Matterport\packages\vs-app\assets\video call.png"
+           inkscape:export-xdpi="248.78"
+           inkscape:export-ydpi="248.78" /><g
+           transform="matrix(1.409526,0,0,1.409526,66.710064,-821.02307)"
+           id="g1200"
+           style="mix-blend-mode:normal;filter:url(#filter1263)"
+           inkscape:export-filename="C:\Users\hmorales\Documents\Proyectos\Matterport\packages\vs-app\assets\video call.png"
+           inkscape:export-xdpi="248.78"
+           inkscape:export-ydpi="248.78"><circle
+             r="167.73494"
+             cy="83.838905"
+             cx="252.064"
+             id="path1084"
+             style="fill:#09d261;fill-opacity:1;stroke-width:1.15277" /><g
+             transform="matrix(0.85377803,0,0,0.85377803,-517.40617,267.16663)"
+             id="g1125"
+             style="mix-blend-mode:normal;filter:url(#filter1277)"><g
+               id="g1141"><g
+                 transform="translate(715.72682,-220.22364)"
+                 id="g1157"><g
+                   id="g1082"
+                   transform="matrix(0.95916914,0,0,0.95916914,6.3028433,-0.21264371)"><g
+                     id="g1109"><rect
+                       transform="matrix(1.042569,0,0,1.042569,-72.968205,-523.38036)"
+                       ry="23.413279"
+                       y="444.85229"
+                       x="114.46492"
+                       height="125.73798"
+                       width="176.29744"
+                       id="rect101"
+                       style="fill:#0a0a0a;fill-opacity:1;fill-rule:evenodd;stroke-width:0.930885" /></g></g><path
+                   style="fill:#0a0a0a;fill-opacity:1;stroke-width:1.24355"
+                   d="M 240.82513,14.986245 C 230.57202,8.9773851 230.25736,-0.85913641 240.51048,-6.8679944 l 65.21165,-33.2489306 c 10.58836,-5.3986 14.55167,-1.203762 14.55167,10.682137 v 66.989071 c 0,11.885899 -4.6132,19.837513 -14.86632,13.828654 z"
+                   id="path163-1"
+                   sodipodi:nodetypes="ccssscc" /></g></g></g></g></g><g
+         style="fill:#09d261;fill-opacity:1;filter:url(#filter1356)"
+         id="g1180"
+         transform="matrix(3.7081728,0,0,3.7081728,-756.18563,-1441.1704)"><text
+           id="text1303"
+           y="45.537624"
+           x="145.20772"
+           style="font-style:normal;font-weight:normal;font-size:44.263px;line-height:1.25;font-family:sans-serif;fill:#09d261;fill-opacity:1;stroke:none;stroke-width:1.10658"
+           xml:space="preserve"><tspan
+             y="45.537624"
+             x="145.20772"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, ';fill:#09d261;fill-opacity:1;stroke-width:1.10658"
+             id="tspan1301"
+             sodipodi:role="line">Click to Call</tspan></text></g></g></g></g></svg>
